@@ -1,0 +1,4 @@
+outs:
+- md5: 61747351697defe26ccf8b1fe2f6544a
+  size: 21
+  path: student_data.csv
